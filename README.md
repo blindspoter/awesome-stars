@@ -22,7 +22,6 @@
     - [Others](#others)
     - [Python](#python)
     - [Ruby](#ruby)
-    - [Scala](#scala)
     - [Shell](#shell)
     - [TeX](#tex)
     - [VimL](#viml)
@@ -43,7 +42,6 @@
 * [netdata](https://github.com/firehol/netdata) - Real-time performance monitoring, done right!
 * [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 * [redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
-* [xv6](https://github.com/guilleiguaran/xv6) - mirror of the source code of the Xv6 operating system
 
 ## C++
 
@@ -65,7 +63,6 @@
 
 ## CoffeeScript
 
-* [koding](https://github.com/koding/koding) - KODING IS NOW OPEN SOURCE!
 * [deploy-robot](https://github.com/SegmentFault/deploy-robot) - GitHub 自动部署机器人
 
 ## Go
@@ -319,7 +316,6 @@
 * [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy (ws4py 0.3.5)
 * [websockets](https://github.com/aaugustin/websockets) - WebSocket implementation in Python 3
 * [pywebsocket](https://github.com/google/pywebsocket) - WebSocket server and extension for Apache HTTP Server for testing
-* [xunleiaccount](https://github.com/JeffreyWei/xunleiaccount) - 搜集迅雷会员账号
 * [essay](https://github.com/SohuTech/essay) - Python项目自动化多服务器部署的工具
 * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 * [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
@@ -329,10 +325,6 @@
 * [git-deploy](https://github.com/mislav/git-deploy) - git deployment made easy
 * [fucking_shell_scripts](https://github.com/brandonhilkert/fucking_shell_scripts) - The easiest, most common sense configuration management tool... because you just use fucking shell scripts.
 * [jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby
-
-## Scala
-
-* [snowflake](https://github.com/twitter/snowflake) - Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
 
 ## Shell
 
