@@ -6,6 +6,7 @@
 - [Content](#starred)
 
 
+    - [ApacheConf](#apacheconf)
     - [Batchfile](#batchfile)
     - [C](#c)
     - [C++](#c++)
@@ -26,12 +27,18 @@
     - [TeX](#tex)
     - [VimL](#viml)
 
+## ApacheConf
+
+* [ansible-best-practices](https://github.com/fdavis/ansible-best-practices) - This is my working example of Ansible best practices
+
 ## Batchfile
 
 * [python-guide](https://github.com/kennethreitz/python-guide) - Python best practices guidebook, written for Humans.
 
 ## C
 
+* [libevent](https://github.com/libevent/libevent) - A public libevent repository.  The official repository is at https://github.com/libevent/libevent
+* [openwrt](https://github.com/openwrt/openwrt) - Linux distribution for embedded devices
 * [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 * [openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 * [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
@@ -67,9 +74,14 @@
 
 ## Go
 
+* [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+* [delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
+* [fabio](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul.
+* [consul](https://github.com/hashicorp/consul) - Consul is a tool for service discovery, monitoring and configuration.
+* [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 * [ldap](https://github.com/go-ldap/ldap) - Basic LDAP v3 functionality for the GO programming language.
 * [redis](https://github.com/go-redis/redis) - Redis client for Golang
-* [ymir](https://github.com/kevinchendev/ymir) - Web service example based on gin framework
+* [ymir](https://github.com/kevinchendev/ymir) - Web service based on gin framework
 * [gocelery](https://github.com/shicky/gocelery) - Celery Distributed Task Queue in Go
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 * [goenv](https://github.com/crsmithdev/goenv) - Isolated development environments for Go
@@ -170,6 +182,7 @@
 
 ## Makefile
 
+* [docker-redis-cluster](https://github.com/Grokzen/docker-redis-cluster) - Dockerfile for Redis Cluster (redis 3.0+)
 * [PyZh](https://github.com/MrKiven/PyZh) - :books: 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译。
 * [ansible-openssl](https://github.com/weareinteractive/ansible-openssl) - Ansible role which installs openssl and creates/imports certificates
 
@@ -180,6 +193,8 @@
 
 ## Others
 
+* [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
+* [awesome-stars](https://github.com/kevinchendev/awesome-stars) - ✨ ✨ Awesome List of my own!
 * [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 * [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 * [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
@@ -202,6 +217,9 @@
 
 ## Python
 
+* [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
+* [ansible-shell](https://github.com/dominis/ansible-shell) - Interactive ansible shell
+* [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
 * [profiling](https://github.com/what-studio/profiling) - An interactive continuous Python profiler.
 * [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 * [velruse](https://github.com/bbangert/velruse) - Simplifying third-party authentication for web applications.
@@ -267,7 +285,7 @@
 * [sentry-docker](https://github.com/slafs/sentry-docker) - my approach for Dockerizing sentry
 * [Python](https://github.com/geekcomputers/Python) - My Python Examples
 * [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
-* [flask-qiniu](https://github.com/kevinchendev/flask-qiniu) - Qiniu file system for Flask
+* [qiniufs](https://github.com/kevinchendev/qiniufs) - Qiniu file uploader for Flask
 * [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 * [Flask-Boost](https://github.com/hustlzp/Flask-Boost) - Flask application generator for boosting your development.
 * [werkzeug](https://github.com/pallets/werkzeug) - A flexible WSGI implementation and toolkit
