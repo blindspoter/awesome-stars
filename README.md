@@ -74,6 +74,7 @@
 
 ## Go
 
+* [gor](https://github.com/buger/gor) - Gor is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 * [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 * [delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
 * [fabio](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul.
@@ -81,7 +82,7 @@
 * [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 * [ldap](https://github.com/go-ldap/ldap) - Basic LDAP v3 functionality for the GO programming language.
 * [redis](https://github.com/go-redis/redis) - Redis client for Golang
-* [ymir](https://github.com/kevinchendev/ymir) - Web service based on gin framework
+* [ymir](https://github.com/kevinchendev/ymir) - Microservice example based on gin
 * [gocelery](https://github.com/shicky/gocelery) - Celery Distributed Task Queue in Go
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 * [goenv](https://github.com/crsmithdev/goenv) - Isolated development environments for Go
@@ -217,6 +218,8 @@
 
 ## Python
 
+* [urllib3](https://github.com/shazow/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.
+* [setuphelpers](https://github.com/ccpgames/setuphelpers) - Python setuptools helper functions
 * [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [ansible-shell](https://github.com/dominis/ansible-shell) - Interactive ansible shell
 * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
@@ -346,6 +349,7 @@
 
 ## Shell
 
+* [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 * [golang](https://github.com/docker-library/golang) - Docker Official Image packaging for golang
 * [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 * [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
