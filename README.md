@@ -62,6 +62,7 @@
 
 ## CSS
 
+* [poole](https://github.com/poole/poole) - The Jekyll Butler.
 * [Github-Pages-Example](https://github.com/beiyuu/Github-Pages-Example) - BeiYuu's Blog
 * [p](https://github.com/qingfeng/p) - Upload file service for Douban
 * [gitbook-use](https://github.com/zhangjikai/gitbook-use) - 记录GitBook的一些配置及插件信息
@@ -74,6 +75,10 @@
 
 ## Go
 
+* [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) - Learn how to write webapps in Go.
+* [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
+* [kite](https://github.com/koding/kite) - Micro-service framework in Go
+* [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 * [gor](https://github.com/buger/gor) - Gor is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 * [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 * [delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
@@ -82,7 +87,7 @@
 * [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 * [ldap](https://github.com/go-ldap/ldap) - Basic LDAP v3 functionality for the GO programming language.
 * [redis](https://github.com/go-redis/redis) - Redis client for Golang
-* [ymir](https://github.com/kevinchendev/ymir) - Microservice example based on gin
+* [micros](https://github.com/kevinchendev/micros) - Micro-service startup based on gin
 * [gocelery](https://github.com/shicky/gocelery) - Celery Distributed Task Queue in Go
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 * [goenv](https://github.com/crsmithdev/goenv) - Isolated development environments for Go
@@ -95,7 +100,6 @@
 * [gotestit](https://github.com/shageman/gotestit) - Comparison of go lang testing libraries
 * [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a lightweight and fast MySQL driver for Go's (golang) database/sql package
 * [forego](https://github.com/ddollar/forego) - Foreman in Go
-* [vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) - Tutorial for vim-go
 * [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source Alternative to Ansible Tower
 * [barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
 * [go-otp](https://github.com/hgfischer/go-otp) - Package go-otp implements one-time-password generators used in 2-factor authentication systems like RSA-tokens. Currently this supports both HOTP (RFC-4226), TOTP (RFC-6238) and Base32 encoding (RFC-3548) for Google Authenticator compatibility
@@ -196,7 +200,7 @@
 
 * [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 * [awesome-stars](https://github.com/kevinchendev/awesome-stars) - ✨ ✨ Awesome List of my own!
-* [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
+* [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
 * [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 * [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -218,6 +222,7 @@
 
 ## Python
 
+* [nginx-gunicorn-flask](https://github.com/danriti/nginx-gunicorn-flask) - Dockerfile for Nginx + Gunicorn + Flask
 * [urllib3](https://github.com/shazow/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.
 * [setuphelpers](https://github.com/ccpgames/setuphelpers) - Python setuptools helper functions
 * [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
@@ -343,6 +348,7 @@
 
 ## Ruby
 
+* [jekyllcn](https://github.com/xcatliu/jekyllcn) - JekyllCN 是 Jekyll 的中文翻译网站
 * [git-deploy](https://github.com/mislav/git-deploy) - git deployment made easy
 * [fucking_shell_scripts](https://github.com/brandonhilkert/fucking_shell_scripts) - The easiest, most common sense configuration management tool... because you just use fucking shell scripts.
 * [jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby
@@ -387,6 +393,7 @@
 ## VimL
 
 * [vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
+* [vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) - Tutorial for vim-go
 * [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
 * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 * [dotfiles](https://github.com/mitsuhiko/dotfiles) - My dotfiles (vim / bash etc.)
