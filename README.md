@@ -37,6 +37,7 @@
 
 ## C
 
+* [hiredis](https://github.com/redis/hiredis) - Minimalistic C client for Redis &gt;= 1.2
 * [libevent](https://github.com/libevent/libevent) - A public libevent repository.  The official repository is at https://github.com/libevent/libevent
 * [openwrt](https://github.com/openwrt/openwrt) - Linux distribution for embedded devices
 * [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
@@ -75,7 +76,7 @@
 
 ## Go
 
-* [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) - Learn how to write webapps in Go.
+* [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) - Learn how to write webapps without a framework in Go.
 * [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 * [kite](https://github.com/koding/kite) - Micro-service framework in Go
 * [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -87,7 +88,7 @@
 * [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 * [ldap](https://github.com/go-ldap/ldap) - Basic LDAP v3 functionality for the GO programming language.
 * [redis](https://github.com/go-redis/redis) - Redis client for Golang
-* [micros](https://github.com/kevinchendev/micros) - Micro-service startup based on gin
+* [micros](https://github.com/blindspoter/micros) - Micro-service startup based on gin
 * [gocelery](https://github.com/shicky/gocelery) - Celery Distributed Task Queue in Go
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 * [goenv](https://github.com/crsmithdev/goenv) - Isolated development environments for Go
@@ -198,8 +199,9 @@
 
 ## Others
 
+* [docker-pypiserver](https://github.com/jcsaaddupuy/docker-pypiserver) - pypiserver in a box
 * [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
-* [awesome-stars](https://github.com/kevinchendev/awesome-stars) - ✨ ✨ Awesome List of my own!
+* [awesome-stars](https://github.com/blindspoter/awesome-stars) - ✨ ✨ Awesome List of my own!
 * [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
 * [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 * [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
@@ -222,6 +224,8 @@
 
 ## Python
 
+* [flask-annotated](https://github.com/hhstore/flask-annotated) - flask 源码注释版本. flask 是一个非常赞的Python web framework.
+* [pypiserver](https://github.com/pypiserver/pypiserver) - Minimal PyPI server for uploading & downloading packages with pip/easy_install
 * [nginx-gunicorn-flask](https://github.com/danriti/nginx-gunicorn-flask) - Dockerfile for Nginx + Gunicorn + Flask
 * [urllib3](https://github.com/shazow/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.
 * [setuphelpers](https://github.com/ccpgames/setuphelpers) - Python setuptools helper functions
@@ -293,7 +297,7 @@
 * [sentry-docker](https://github.com/slafs/sentry-docker) - my approach for Dockerizing sentry
 * [Python](https://github.com/geekcomputers/Python) - My Python Examples
 * [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
-* [qiniufs](https://github.com/kevinchendev/qiniufs) - Qiniu file uploader for Flask
+* [qiniufs](https://github.com/blindspoter/qiniufs) - Qiniu file uploader for Flask
 * [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 * [Flask-Boost](https://github.com/hustlzp/Flask-Boost) - Flask application generator for boosting your development.
 * [werkzeug](https://github.com/pallets/werkzeug) - A flexible WSGI implementation and toolkit
@@ -348,6 +352,7 @@
 
 ## Ruby
 
+* [octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
 * [jekyllcn](https://github.com/xcatliu/jekyllcn) - JekyllCN 是 Jekyll 的中文翻译网站
 * [git-deploy](https://github.com/mislav/git-deploy) - git deployment made easy
 * [fucking_shell_scripts](https://github.com/brandonhilkert/fucking_shell_scripts) - The easiest, most common sense configuration management tool... because you just use fucking shell scripts.
@@ -397,7 +402,7 @@
 * [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
 * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 * [dotfiles](https://github.com/mitsuhiko/dotfiles) - My dotfiles (vim / bash etc.)
-* [.dotfiles](https://github.com/kevinchendev/.dotfiles) - Some personal .dotfiles
+* [.dotfiles](https://github.com/blindspoter/.dotfiles) - Some personal .dotfiles
 * [vim-atom-dark](https://github.com/gosukiwi/vim-atom-dark) - A vim theme inspired by Atom's default dark theme
 * [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 
