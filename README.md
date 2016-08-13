@@ -146,7 +146,7 @@
 * [walle-web](https://github.com/meolu/walle-web) - A Web Deployment Tool (web代码部署工具)
 * [linuxtools_rst](https://github.com/me115/linuxtools_rst) - Linux工具快速教程
 * [flask-continuous-env](https://github.com/dpraul/flask-continuous-env) - Continuous Integration and Deployment Environment for Flask & Travis CI.
-* [fullstackpython.com](https://github.com/makaimc/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
+* [fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 
 ## Inno Setup
 
@@ -166,6 +166,7 @@
 
 ## JavaScript
 
+* [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 * [cowsay](https://github.com/piuccio/cowsay) - cowsay is a configurable talking cow
 * [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 * [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a dependency-free collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -199,6 +200,8 @@
 
 ## Others
 
+* [interview_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
+* [awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 * [docker-pypiserver](https://github.com/jcsaaddupuy/docker-pypiserver) - pypiserver in a box
 * [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 * [awesome-stars](https://github.com/blindspoter/awesome-stars) - ✨ ✨ Awesome List of my own!
@@ -224,6 +227,9 @@
 
 ## Python
 
+* [caravel](https://github.com/airbnb/caravel) - Caravel is a data exploration platform designed to be visual, intuitive, and interactive
+* [python-oauth2](https://github.com/joestump/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers.
+* [python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
 * [flask-annotated](https://github.com/hhstore/flask-annotated) - flask 源码注释版本. flask 是一个非常赞的Python web framework.
 * [pypiserver](https://github.com/pypiserver/pypiserver) - Minimal PyPI server for uploading & downloading packages with pip/easy_install
 * [nginx-gunicorn-flask](https://github.com/danriti/nginx-gunicorn-flask) - Dockerfile for Nginx + Gunicorn + Flask
