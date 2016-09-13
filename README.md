@@ -70,7 +70,7 @@
 * [Github-Pages-Example](https://github.com/beiyuu/Github-Pages-Example) - BeiYuu's Blog
 * [p](https://github.com/qingfeng/p) - Upload file service for Douban
 * [gitbook-use](https://github.com/zhangjikai/gitbook-use) - 记录GitBook的一些配置及插件信息
-* [12factor](https://github.com/heroku/12factor) - 
+* [12factor](https://github.com/heroku/12factor) -
 * [code](https://github.com/douban/code) - Douban CODE
 
 ## CoffeeScript
@@ -79,14 +79,14 @@
 
 ## Go
 
-* [gin-sentry](https://github.com/gin-gonic/gin-sentry) - 
+* [gin-sentry](https://github.com/gin-gonic/gin-sentry) -
 * [rpcx](https://github.com/smallnest/rpcx) - rpcx is a distributed RPC service framework based on net/rpc like  alibaba Dubbo and weibo Motan. One of best performance RPC frameworks.
 * [go-patterns](https://github.com/tmrts/go-patterns) - A curated list of Go patterns and idioms
 * [realize](https://github.com/tockins/realize) - Go build system with file watchers, live reload and output streams. Run, build and watch file changes with custom paths
 * [workq](https://github.com/iamduo/workq) - Job server in Go
 * [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 * [gjson](https://github.com/tidwall/gjson) - Get JSON values very quickly in Go
-* [btree](https://github.com/google/btree) - 
+* [btree](https://github.com/google/btree) -
 * [websocket](https://github.com/gorilla/websocket) - A WebSocket implementation for Go.
 * [mux](https://github.com/gorilla/mux) - A powerful URL router and dispatcher for golang.
 * [kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
@@ -239,7 +239,7 @@
 * [git-style-guide](https://github.com/agis-/git-style-guide) - A Git Style Guide
 * [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
 * [elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
-* [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - 
+* [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) -
 * [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 * [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 * [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - :octocat: A a curated list of curated lists of awesome lists.
@@ -247,7 +247,7 @@
 * [swagger.io](https://github.com/swagger-api/swagger.io) - The content of swagger.io
 * [awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 * [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of linux sysadmin/devop interview questions
-* [fabric_flask_deployer](https://github.com/simplycycling/fabric_flask_deployer) - 
+* [fabric_flask_deployer](https://github.com/simplycycling/fabric_flask_deployer) -
 * [free-programming-books](https://github.com/vhf/free-programming-books) - :books: Freely available programming books
 * [book](https://github.com/qyuhen/book) - 学习笔记
 * [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
@@ -280,7 +280,7 @@
 * [ansible-shell](https://github.com/dominis/ansible-shell) - Interactive ansible shell
 * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
 * [profiling](https://github.com/what-studio/profiling) - An interactive continuous Python profiler.
-* [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
+* [shadowsocks](https://github.com/shadowsocks/shadowsocks) -
 * [velruse](https://github.com/bbangert/velruse) - Simplifying third-party authentication for web applications.
 * [python-websockets-chat](https://github.com/heroku-examples/python-websockets-chat) - An example implementation of WebSockets in Flask.
 * [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
@@ -320,7 +320,7 @@
 * [plan](https://github.com/fengsp/plan) - Crontab jobs management in Python
 * [pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
 * [docker-devpi](https://github.com/tonyseek/docker-devpi) - Host your private PyPI server by running DevPI as a Docker container.
-* [algorithm](https://github.com/qiwsir/algorithm) - 
+* [algorithm](https://github.com/qiwsir/algorithm) -
 * [freezegun](https://github.com/spulec/freezegun) - Let your Python tests travel through time
 * [flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 * [rq-scheduler](https://github.com/ui/rq-scheduler) - A light library that adds job scheduling capabilities to RQ (Redis Queue)
@@ -349,7 +349,7 @@
 * [Flask-Boost](https://github.com/hustlzp/Flask-Boost) - Flask application generator for boosting your development.
 * [werkzeug](https://github.com/pallets/werkzeug) - A flexible WSGI implementation and toolkit
 * [cython](https://github.com/cython/cython) - A Python to C compiler
-* [django-simple-sso](https://github.com/aldryn/django-simple-sso) - 
+* [django-simple-sso](https://github.com/aldryn/django-simple-sso) -
 * [flask-sso](https://github.com/inveniosoftware/flask-sso) - Flask Single-Sign-On Extension
 * [marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 * [django-fagungis](https://github.com/DNX/django-fagungis) - DJANGO + FAbric + GUnicorn + NGInx + Supervisor deployment
