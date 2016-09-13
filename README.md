@@ -14,6 +14,7 @@
     - [CoffeeScript](#coffeescript)
     - [Go](#go)
     - [HTML](#html)
+    - [Haskell](#haskell)
     - [Inno Setup](#inno setup)
     - [Java](#java)
     - [JavaScript](#javascript)
@@ -37,6 +38,8 @@
 
 ## C
 
+* [linux](https://github.com/torvalds/linux) - Linux kernel source tree
+* [Atlas](https://github.com/Qihoo360/Atlas) - A high-performance and stable proxy for MySQL
 * [hiredis](https://github.com/redis/hiredis) - Minimalistic C client for Redis &gt;= 1.2
 * [libevent](https://github.com/libevent/libevent) - A public libevent repository.  The official repository is at https://github.com/libevent/libevent
 * [openwrt](https://github.com/openwrt/openwrt) - Linux distribution for embedded devices
@@ -76,6 +79,18 @@
 
 ## Go
 
+* [gin-sentry](https://github.com/gin-gonic/gin-sentry) - 
+* [rpcx](https://github.com/smallnest/rpcx) - rpcx is a distributed RPC service framework based on net/rpc like  alibaba Dubbo and weibo Motan. One of best performance RPC frameworks.
+* [go-patterns](https://github.com/tmrts/go-patterns) - A curated list of Go patterns and idioms
+* [realize](https://github.com/tockins/realize) - Go build system with file watchers, live reload and output streams. Run, build and watch file changes with custom paths
+* [workq](https://github.com/iamduo/workq) - Job server in Go
+* [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
+* [gjson](https://github.com/tidwall/gjson) - Get JSON values very quickly in Go
+* [btree](https://github.com/google/btree) - 
+* [websocket](https://github.com/gorilla/websocket) - A WebSocket implementation for Go.
+* [mux](https://github.com/gorilla/mux) - A powerful URL router and dispatcher for golang.
+* [kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
+* [httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 * [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) - Learn how to write webapps without a framework in Go.
 * [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 * [kite](https://github.com/koding/kite) - Micro-service framework in Go
@@ -110,7 +125,6 @@
 * [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 * [go-querystring](https://github.com/google/go-querystring) - go-querystring is Go library for encoding structs into URL query parameters.
 * [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-* [otto](https://github.com/hashicorp/otto) - Development and deployment made easy.
 * [grace](https://github.com/facebookgo/grace) - Graceful restart & zero downtime deploy for Go servers.
 * [web](https://github.com/hoisie/web) - The easiest way to create web applications with Go
 * [etcd](https://github.com/coreos/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -140,13 +154,20 @@
 
 ## HTML
 
+* [newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
+* [code-guide](https://github.com/mdo/code-guide) - Standards for flexible, durable, and sustainable HTML and CSS.
 * [startbootstrap-sb-admin-2](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 * [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x
 * [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 * [walle-web](https://github.com/meolu/walle-web) - A Web Deployment Tool (web代码部署工具)
 * [linuxtools_rst](https://github.com/me115/linuxtools_rst) - Linux工具快速教程
+* [otto](https://github.com/hashicorp/otto) - Development and deployment made easy.
 * [flask-continuous-env](https://github.com/dpraul/flask-continuous-env) - Continuous Integration and Deployment Environment for Flask & Travis CI.
-* [fullstackpython.com](https://github.com/makaimc/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
+* [fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
+
+## Haskell
+
+* [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Inno Setup
 
@@ -154,6 +175,7 @@
 
 ## Java
 
+* [DataX](https://github.com/alibaba/DataX) - DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台，实现包括 MySQL、Oracle、HDFS、Hive、OceanBase、HBase、OTS、ODPS 等各种异构数据源之间高效的数据同步功能。
 * [zookeeper](https://github.com/apache/zookeeper) - Mirror of Apache Hadoop ZooKeeper
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 * [kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
@@ -166,6 +188,10 @@
 
 ## JavaScript
 
+* [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
+* [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
+* [FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
+* [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 * [cowsay](https://github.com/piuccio/cowsay) - cowsay is a configurable talking cow
 * [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 * [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a dependency-free collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -184,10 +210,11 @@
 
 ## Jupyter Notebook
 
-* [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
+* [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for beginners
 
 ## Makefile
 
+* [zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 * [docker-redis-cluster](https://github.com/Grokzen/docker-redis-cluster) - Dockerfile for Redis Cluster (redis 3.0+)
 * [PyZh](https://github.com/MrKiven/PyZh) - :books: 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译。
 * [ansible-openssl](https://github.com/weareinteractive/ansible-openssl) - Ansible role which installs openssl and creates/imports certificates
@@ -199,6 +226,9 @@
 
 ## Others
 
+* [awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React components / libraries
+* [interview_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
+* [awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 * [docker-pypiserver](https://github.com/jcsaaddupuy/docker-pypiserver) - pypiserver in a box
 * [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 * [awesome-stars](https://github.com/blindspoter/awesome-stars) - ✨ ✨ Awesome List of my own!
@@ -224,6 +254,23 @@
 
 ## Python
 
+* [responses](https://github.com/getsentry/responses) - A utility for mocking out the Python Requests library.
+* [raven-python](https://github.com/getsentry/raven-python) - Raven is a Python client for Sentry (getsentry.com)
+* [minichat](https://github.com/sdiehl/minichat) - Minimal realtime chat application ( Tutorial )
+* [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
+* [http-observatory](https://github.com/mozilla/http-observatory) - HTTP Observatory
+* [redis-shard](https://github.com/zhihu/redis-shard) - Redis sharding client library
+* [pyopenssl](https://github.com/pyca/pyopenssl) - A Python wrapper around the OpenSSL library
+* [douban-utils](https://github.com/douban/douban-utils) - Douban's Utils
+* [Git-Auto-Deploy](https://github.com/olipo186/Git-Auto-Deploy) - Deploy your GitHub, GitLab or Bitbucket projects automatically on Git push events or webhooks using this small HTTP server written in Python. Continuous deployment in it's most simple form.
+* [zerorpc-python](https://github.com/0rpc/zerorpc-python) - zerorpc for python
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine.
+* [GDLnotes](https://github.com/ahangchen/GDLnotes) - Google Deep Learning Notes（TensorFlow教程）
+* [pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
+* [fapistrano](https://github.com/liwushuo/fapistrano) - A remote server automation and deployment tool.
+* [caravel](https://github.com/airbnb/caravel) - Caravel is a data exploration platform designed to be visual, intuitive, and interactive
+* [python-oauth2](https://github.com/joestump/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers.
+* [python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
 * [flask-annotated](https://github.com/hhstore/flask-annotated) - flask 源码注释版本. flask 是一个非常赞的Python web framework.
 * [pypiserver](https://github.com/pypiserver/pypiserver) - Minimal PyPI server for uploading & downloading packages with pip/easy_install
 * [nginx-gunicorn-flask](https://github.com/danriti/nginx-gunicorn-flask) - Dockerfile for Nginx + Gunicorn + Flask
@@ -360,6 +407,9 @@
 
 ## Shell
 
+* [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments.
+* [docker-mailserver](https://github.com/tomav/docker-mailserver) - A fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.
+* [dockerfiles](https://github.com/jfrazelle/dockerfiles) - Various Dockerfiles
 * [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 * [golang](https://github.com/docker-library/golang) - Docker Official Image packaging for golang
 * [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
