@@ -56,6 +56,8 @@
 
 ## C++
 
+* [mesos](https://github.com/apache/mesos) - Mirror of Apache Mesos
+* [uWebSockets](https://github.com/uWebSockets/uWebSockets) - Highly scalable WebSocket server & client library
 * [mcrouter](https://github.com/facebook/mcrouter) - Mcrouter is a memcached protocol router for scaling memcached deployments.
 * [libmc](https://github.com/douban/libmc) - Fast and light-weight memcached client for C++ / #python / #golang #libmc
 * [design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
@@ -70,7 +72,7 @@
 * [Github-Pages-Example](https://github.com/beiyuu/Github-Pages-Example) - BeiYuu's Blog
 * [p](https://github.com/qingfeng/p) - Upload file service for Douban
 * [gitbook-use](https://github.com/zhangjikai/gitbook-use) - 记录GitBook的一些配置及插件信息
-* [12factor](https://github.com/heroku/12factor) -
+* [12factor](https://github.com/heroku/12factor) - 
 * [code](https://github.com/douban/code) - Douban CODE
 
 ## CoffeeScript
@@ -79,14 +81,18 @@
 
 ## Go
 
-* [gin-sentry](https://github.com/gin-gonic/gin-sentry) -
+* [link](https://github.com/funny/link) - Go语言网络层脚手架
+* [Go-best-practice](https://github.com/astaxie/Go-best-practice) - Trying to complete over 100 projects in various categories in golang.
+* [lint](https://github.com/golang/lint) - This is a linter for Go source code.
+* [migrate](https://github.com/mattes/migrate) - Database migration handling in Golang
+* [gin-sentry](https://github.com/gin-gonic/gin-sentry) - 
 * [rpcx](https://github.com/smallnest/rpcx) - rpcx is a distributed RPC service framework based on net/rpc like  alibaba Dubbo and weibo Motan. One of best performance RPC frameworks.
-* [go-patterns](https://github.com/tmrts/go-patterns) - A curated list of Go patterns and idioms
+* [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go patterns and idioms
 * [realize](https://github.com/tockins/realize) - Go build system with file watchers, live reload and output streams. Run, build and watch file changes with custom paths
 * [workq](https://github.com/iamduo/workq) - Job server in Go
 * [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 * [gjson](https://github.com/tidwall/gjson) - Get JSON values very quickly in Go
-* [btree](https://github.com/google/btree) -
+* [btree](https://github.com/google/btree) - 
 * [websocket](https://github.com/gorilla/websocket) - A WebSocket implementation for Go.
 * [mux](https://github.com/gorilla/mux) - A powerful URL router and dispatcher for golang.
 * [kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
@@ -175,6 +181,7 @@
 
 ## Java
 
+* [dubbo](https://github.com/alibaba/dubbo) - Dubbo is a distributed, high performance RPC framework enpowering applications with service import/export capabilities.
 * [DataX](https://github.com/alibaba/DataX) - DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台，实现包括 MySQL、Oracle、HDFS、Hive、OceanBase、HBase、OTS、ODPS 等各种异构数据源之间高效的数据同步功能。
 * [zookeeper](https://github.com/apache/zookeeper) - Mirror of Apache Hadoop ZooKeeper
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
@@ -188,10 +195,14 @@
 
 ## JavaScript
 
+* [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
+* [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+* [shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool written in JavaScript.
 * [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 * [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
 * [FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 * [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+* [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [cowsay](https://github.com/piuccio/cowsay) - cowsay is a configurable talking cow
 * [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 * [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a dependency-free collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -239,7 +250,7 @@
 * [git-style-guide](https://github.com/agis-/git-style-guide) - A Git Style Guide
 * [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
 * [elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
-* [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) -
+* [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - 
 * [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 * [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 * [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - :octocat: A a curated list of curated lists of awesome lists.
@@ -247,13 +258,24 @@
 * [swagger.io](https://github.com/swagger-api/swagger.io) - The content of swagger.io
 * [awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 * [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of linux sysadmin/devop interview questions
-* [fabric_flask_deployer](https://github.com/simplycycling/fabric_flask_deployer) -
+* [fabric_flask_deployer](https://github.com/simplycycling/fabric_flask_deployer) - 
 * [free-programming-books](https://github.com/vhf/free-programming-books) - :books: Freely available programming books
 * [book](https://github.com/qyuhen/book) - 学习笔记
 * [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
 
 ## Python
 
+* [docker-graphite-statsd](https://github.com/hopsoft/docker-graphite-statsd) - Docker image for Graphite & Statsd
+* [cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage) - Cookiecutter template for a Python package.
+* [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+* [cookiecutter-tornado](https://github.com/denglj/cookiecutter-tornado) - A cookiecutter standardized project skeleton for Tornado based application.
+* [legit](https://github.com/kennethreitz/legit) - Git for Humans, Inspired by GitHub for Mac™.
+* [zoo_cmd](https://github.com/liujinliu/zoo_cmd) - I hope I can operate zookeeper path like localfile system
+* [PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL Client
+* [tox](https://github.com/tox-dev/tox) - virtualenv management and test command line tool
+* [asynq](https://github.com/quora/asynq) - Python library for asynchronous programming
+* [dpark](https://github.com/douban/dpark) - Python clone of Spark,  a MapReduce alike framework in Python
+* [flask-base](https://github.com/notedit/flask-base) - a skeleton for flask
 * [responses](https://github.com/getsentry/responses) - A utility for mocking out the Python Requests library.
 * [raven-python](https://github.com/getsentry/raven-python) - Raven is a Python client for Sentry (getsentry.com)
 * [minichat](https://github.com/sdiehl/minichat) - Minimal realtime chat application ( Tutorial )
@@ -276,11 +298,10 @@
 * [nginx-gunicorn-flask](https://github.com/danriti/nginx-gunicorn-flask) - Dockerfile for Nginx + Gunicorn + Flask
 * [urllib3](https://github.com/shazow/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.
 * [setuphelpers](https://github.com/ccpgames/setuphelpers) - Python setuptools helper functions
-* [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [ansible-shell](https://github.com/dominis/ansible-shell) - Interactive ansible shell
 * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
 * [profiling](https://github.com/what-studio/profiling) - An interactive continuous Python profiler.
-* [shadowsocks](https://github.com/shadowsocks/shadowsocks) -
+* [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 * [velruse](https://github.com/bbangert/velruse) - Simplifying third-party authentication for web applications.
 * [python-websockets-chat](https://github.com/heroku-examples/python-websockets-chat) - An example implementation of WebSockets in Flask.
 * [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
@@ -320,7 +341,7 @@
 * [plan](https://github.com/fengsp/plan) - Crontab jobs management in Python
 * [pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
 * [docker-devpi](https://github.com/tonyseek/docker-devpi) - Host your private PyPI server by running DevPI as a Docker container.
-* [algorithm](https://github.com/qiwsir/algorithm) -
+* [algorithm](https://github.com/qiwsir/algorithm) - 
 * [freezegun](https://github.com/spulec/freezegun) - Let your Python tests travel through time
 * [flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 * [rq-scheduler](https://github.com/ui/rq-scheduler) - A light library that adds job scheduling capabilities to RQ (Redis Queue)
@@ -349,7 +370,7 @@
 * [Flask-Boost](https://github.com/hustlzp/Flask-Boost) - Flask application generator for boosting your development.
 * [werkzeug](https://github.com/pallets/werkzeug) - A flexible WSGI implementation and toolkit
 * [cython](https://github.com/cython/cython) - A Python to C compiler
-* [django-simple-sso](https://github.com/aldryn/django-simple-sso) -
+* [django-simple-sso](https://github.com/aldryn/django-simple-sso) - 
 * [flask-sso](https://github.com/inveniosoftware/flask-sso) - Flask Single-Sign-On Extension
 * [marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 * [django-fagungis](https://github.com/DNX/django-fagungis) - DJANGO + FAbric + GUnicorn + NGInx + Supervisor deployment
@@ -399,6 +420,7 @@
 
 ## Ruby
 
+* [redis-stat](https://github.com/junegunn/redis-stat) - :blossom: A real-time Redis monitoring tool
 * [octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
 * [jekyllcn](https://github.com/xcatliu/jekyllcn) - JekyllCN 是 Jekyll 的中文翻译网站
 * [git-deploy](https://github.com/mislav/git-deploy) - git deployment made easy
@@ -407,6 +429,8 @@
 
 ## Shell
 
+* [rancher](https://github.com/rancher/rancher) - A Platform for Operating Docker in Production
+* [zabbix](https://github.com/zbal/zabbix) - Zabbix custom scripts and auto-install
 * [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments.
 * [docker-mailserver](https://github.com/tomav/docker-mailserver) - A fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.
 * [dockerfiles](https://github.com/jfrazelle/dockerfiles) - Various Dockerfiles
@@ -430,7 +454,7 @@
 * [docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 * [gitlab-docker](https://github.com/crashsystems/gitlab-docker) - Automated buld of GitLab with Docker.io
 * [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
-* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [ansible-tutorial](https://github.com/mattupstate/ansible-tutorial) - Example code for a tutorial on using Ansible for setup and deployment of a Flask/WSGI application on Ubuntu
 * [pyenv-virtualenv](https://github.com/yyuu/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
 * [dockerfiles](https://github.com/nickstenning/dockerfiles) - Dockerfile repository for maintaining Docker images
